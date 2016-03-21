@@ -1,13 +1,13 @@
 /*
-Theme Name: Activist Network Cosecha Theme
-Theme URI: https://github.com/glocalcoop/anp-network-main-cosecha
+Theme Name: Activist Network Theme Child
+Theme URI: https://github.com/glocalcoop/anp-network-main-v2-child
 Author: Pea, Glocal
 Author URI: http://glocal.coop
 Description: Child theme starter for ANP main network site
-Version: 1.0.0
+Version: 1.0.2
 License: GNU General Public License v2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
-Text Domain: anp-network-main-cosecha
+Text Domain: anp-network-main-child
 Template: anp-network-main
 Tags:
 
@@ -50,13 +50,6 @@ Tags:
 /*--------------------------------------------------------------
 # Widgets
 --------------------------------------------------------------*/
-a {
-  color: #509EA3; }
-  a:hover, a:focus {
-    color: #2e5c5f; }
-  a:visited {
-    color: #2e5c5f; }
-
 /*--------------------------------------------------------------
 # Structure
 --------------------------------------------------------------*/
