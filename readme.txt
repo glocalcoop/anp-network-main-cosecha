@@ -1,4 +1,4 @@
-=== Activist Network Theme Child ===
+=== Activist Network Cosecha Theme ===
 
 Contributors: Pea, Glocal Coop
 Tags: translation-ready, custom-background, theme-options, custom-menu, post-formats, threaded-comments
